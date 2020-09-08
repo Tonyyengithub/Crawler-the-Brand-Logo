@@ -11,3 +11,19 @@ string = datetime.now().strftime("%m%d_%H%M%S")
 os.makedirs(string)
 ```
 The above code help us create a folder, aim to save the input photo, with the name of current time
+
+```
+driver.find_element_by_xpath("//*[@id=\"searchBarInput\"]")
+```
+We can also use by_class, by_name, by ID, however, the Xpath is the most direct one.
+
+```
+Logo_str = str(i)
+Logo_name = Logo_str + '.png'
+```
+Using the string type can let us save the time in modifying the file name. YOu can also save the photo in '.jpg' format.
+
+```
+imgg = img.screenshot_as_png
+```
+Screenshot the selected part
