@@ -6,8 +6,8 @@ First version only for those brand with English name.
 2. The 'try.csv' should contain all the target brand you want to crawler.
 3. This demo utilizng the website: seeklogo.com
 
-'''
+```
 string = datetime.now().strftime("%m%d_%H%M%S") 
 os.makedirs(string)
-'''
+```
 The above code help us create a folder, aim to save the input photo, with the name of current time
