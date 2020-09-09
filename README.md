@@ -31,5 +31,6 @@ imgg = img.screenshot_as_png
 Screenshot the selected part
 
 And the result will shown as below
+
 <img src = "https://github.com/Tonyyengithub/Crawler-the-Brand-Logo/blob/master/0908_155139/%E6%88%AA%E5%9C%96%202020-09-08%20%E4%B8%8B%E5%8D%884.22.01.png" width = "500">
 
