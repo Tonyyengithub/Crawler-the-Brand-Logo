@@ -2,6 +2,8 @@
 To do: Saving the manpower to scratch the Logo-photo automative
 First version only for those brand with English name.
 
+<img src = "https://github.com/Tonyyengithub/Crawler-the-Brand-Logo/blob/master/0908_155139/2020-09-09%20%E4%B8%8B%E5%8D%882.42.25.png" width = "800">
+
 1. Require the chromedriver and pandas, numpy, Selenium, os, time packages.
 2. The 'try.csv' should contain all the target brand you want to crawler.
 3. This demo utilizng the website: seeklogo.com
@@ -29,4 +31,5 @@ imgg = img.screenshot_as_png
 Screenshot the selected part
 
 And the result will shown as below
-![image](https://github.com/Tonyyengithub/Crawler-the-Brand-Logo/blob/master/0908_155139/%E6%88%AA%E5%9C%96%202020-09-08%20%E4%B8%8B%E5%8D%884.22.01.png)
+<img src = "https://github.com/Tonyyengithub/Crawler-the-Brand-Logo/blob/master/0908_155139/%E6%88%AA%E5%9C%96%202020-09-08%20%E4%B8%8B%E5%8D%884.22.01.png" width = "800">
+
